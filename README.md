@@ -47,7 +47,7 @@ Copy these commands and paste them in the terminal:
  ```
  
 # Contributing
-We welcome contributions from the community! We welcome your contributions to improve the project. If you'd like to contribute to Pdf-Password-Decrypter, please read the following guidelines on how to contribute:
+We welcome contributions from the community! We welcome your contributions to improve the project. If you'd like to contribute to Tkinter-Image-Viewer, please read the following guidelines on how to contribute:
 + Fork the repository and create a new branch for your changes.
 + Make your changes to the code.
 + Test your changes thoroughly.
